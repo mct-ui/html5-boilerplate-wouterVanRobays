@@ -134,3 +134,16 @@ a:visited,
 a:active {
     color: BlueViolet;
 }
+@media (min-width: 768px)
+{
+    h1{
+        font-size: 58px;
+        line-height: 64px;
+    }
+}
+@media (min-width: 768px)
+{
+    html{
+        padding: 48px 48px 24px;
+    }
+}
