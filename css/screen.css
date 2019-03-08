@@ -28,7 +28,8 @@ html {
 body
 {
     background: white;
-
+    max-width: 42em;
+    margin: 0 auto;
 }
 /*
     Elements: Images
